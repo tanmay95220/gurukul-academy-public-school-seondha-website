@@ -1,0 +1,32 @@
+.travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin:40px;
+}
+
+.achievement_head
+{
+  font-size: 20px;
+  padding:6px 22px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.achievement_head i
+{
+  float: right;
+}
+
+.achievement_text span
+{
+  color: orange;
+}
